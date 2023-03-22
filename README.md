@@ -4,7 +4,7 @@ This is a face detector app 👽, which was my final project for the Web Develop
 
 Feedbacks are more than welcome! 😄
 
-#Functionality
+# Functionality
 In the input field, the user will either:
 - copy and paste the URL of their picture, or
 - browse their pictures in their local folders.
