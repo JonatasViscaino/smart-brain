@@ -16,5 +16,3 @@ The app consumes Clarifai API for face detection.
 Backend: Node.js, Express, Postgresql database, bycript.
 Frontend: React, CSS
 
-# smart-brain
-
