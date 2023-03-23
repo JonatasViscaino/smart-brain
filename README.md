@@ -5,14 +5,14 @@ This is a face detector app 👽, which was my final project for the Web Develop
 Feedbacks are more than welcome! 😄
 
 # Functionality
-In the input field, the user will either:
-- copy and paste the URL of their picture, or
-- browse their pictures in their local folders.
-The user can also subscribe with their email and a password. Doing so, they will be able to keep track of their successful face detections.
+First of all the user needs to login or register to the website.
+
+Once login:
+- copy and paste the URL of their picture and the app will recognize the face of one person at the image.
 
 # Stack
 The app consumes Clarifai API for face detection.
 
-Backend: Node.js, Express, Postgresql database, bycript.
+Backend: Node.js, Express, Postgresql, bycript.
 Frontend: React, CSS
 
